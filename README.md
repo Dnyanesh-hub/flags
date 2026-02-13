@@ -26,13 +26,9 @@ Everything is built using:
 
 ## 🚀 Countries Included
 
-- 
-- 🇯🇵 Japan
-- 🇫🇷 France
-- 🇩🇪 Germany
-- 🇮🇹 Italy
-- 🇺🇸 USA
-- (Add more if you created them)
+- Japan
+- laos
+- sweeden
 
 ---
 
